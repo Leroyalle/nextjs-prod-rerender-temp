@@ -11,7 +11,8 @@
   "dependencies": {
     "@tanstack/react-query": "^5.64.2",
     "@tanstack/react-query-devtools": "^5.64.2",
-    "next": "15.1.6",
+    "babel-plugin-react-compiler": "^19.0.0-beta-e1e972c-20250221",
+    "next": "^14.2.24",
     "nextjs-toploader": "^3.7.15",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
